@@ -1,0 +1,20 @@
+# 项目中使用到的库或者模块
+beautifulsoup4
+flask(Flask,session)
+flask-restful
+lxml
+html5lib
+lxml
+redis
+psycopg2
+sqlalchemy
+pymongo
+setproctitle
+apscheduler
+rsa
+qiniu
+numpy
+ipython
+
+
+

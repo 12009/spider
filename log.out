@@ -1,0 +1,7 @@
+nohup: 忽略输入
+Traceback (most recent call last):
+  File "ctl.py", line 11, in <module>
+    from db.base import getMongo
+  File "/home/lixiang/workspace/local_spider/db/base.py", line 2, in <module>
+    from redis import Redis
+ImportError: No module named redis
